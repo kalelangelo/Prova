@@ -3,13 +3,13 @@ function mudarTexto() {
     document.getElementById("demo").innerHTML = "ENCARE O KIKO!";
 }
 <body>
-         <script>
+ <script>
 
-            function exibirAlerta() {
+function exibirAlerta() {
             
-            alert("Olá! Isso é um alerta em JavaScript.");
+alert("Olá! Isso é um alerta em JavaScript.")
             
-            }
+}
             
             </script>    
 </body> 
