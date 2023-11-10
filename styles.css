@@ -1,3 +1,23 @@
+
+body{           
+background-color: rosybrown;
+}
+
+button{
+display:inline-block;
+padding: inherit;
+border-radius: 4px;
+word-spacing: 8px;
+font-weight: 700;
+font-family: sans-serif;
+text-transform: uppercase;
+letter-spacing: 2px;
+color: azure;
+background-color: rgb(0, 0, 0);
+transition: 3s;
+cursor: pointer;
+}
+      
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
